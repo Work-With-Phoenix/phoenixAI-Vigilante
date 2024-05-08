@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+*.pyc
+__pycache__/
+*.swp
+db.sqlite3
+/phoenixai_vigilante/migrations/
+/static/
+/media/
+/phoenixai_vigilante/settings_local.py
+/secrets.json
+/logs/
+/tmp/
+/requirements.txt
+/requirements/
+/build/
+/dist/
