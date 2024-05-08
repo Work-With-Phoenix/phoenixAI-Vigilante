@@ -30,7 +30,11 @@
 
 To get started with PhoenixAI Vigilante, follow these steps:
 
-1. **Installation**: Install the package using `npm install phoenixai-vigilante`.
+1. **Installation**: Install the package using pip:
+
+   ```
+   pip install phoenixai-vigilante
+   ```
 
 2. **Configuration**: Configure the package by specifying project URLs or repositories to analyze, analysis depth, and other options as needed.
 
@@ -41,3 +45,8 @@ To get started with PhoenixAI Vigilante, follow these steps:
 ## Contributing
 
 We welcome contributions from the community to help improve PhoenixAI Vigilante! Whether it's through code contributions, bug reports, feature requests, or documentation improvements, your input is invaluable in making this project better for everyone.
+
+
+## Assurance Notes:
+
+We are committed to continuous improvement and development of PhoenixAI Vigilante. As part of our future plans, we will be releasing an npm package to support JavaScript-based projects. Stay tuned for updates!
