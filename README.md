@@ -45,8 +45,27 @@ To get started with PhoenixAI Vigilante, follow these steps:
 ## Contributing
 
 We welcome contributions from the community to help improve PhoenixAI Vigilante! Whether it's through code contributions, bug reports, feature requests, or documentation improvements, your input is invaluable in making this project better for everyone.
+Sure, here's the module part for the README:
 
+## TODO 
 
-## Assurance Notes:
+### Modules (Free)
+
+- [ ] **Language Identification**: Identify the primary programming language(s) used in a project (WIP - under dev).
+- [ ] **Framework Identification**: Detect commonly used frameworks within a project (WIP - under dev).
+- [ ] **Dependency Analysis**: Analyze project dependencies and identify outdated or vulnerable packages.
+- [ ] **Code Quality Analysis**: Evaluate code quality metrics such as code complexity, duplication, and style violations.
+- [ ] **Security Vulnerability Detection**: Identify security vulnerabilities in project codebase.
+- [ ] **Performance Analysis**: Analyze project performance metrics and identify areas for optimization.
+
+### Modules (Premium)
+
+- [ ] **Advanced Security Scanning**: Deep dive into project codebase to detect complex security threats and vulnerabilities.
+- [ ] **Custom Rule Engine**: Allow users to define custom rules for analyzing project code.
+- [ ] **Intelligent Patching**: Automatically generate patches for identified issues and vulnerabilities.
+- [ ] **Continuous Monitoring**: Monitor projects for changes and automatically trigger analysis workflows.
+- [ ] **Integration with CI/CD Pipelines**: Seamlessly integrate PhoenixAI Vigilante into existing CI/CD pipelines for automated code analysis.
+
+## Assurance Notes
 
 We are committed to continuous improvement and development of PhoenixAI Vigilante. As part of our future plans, we will be releasing an npm package to support JavaScript-based projects. Stay tuned for updates!
